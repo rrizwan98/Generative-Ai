@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 ai-financial-agent/.env
 AI-travel-agent/.env
+stock-price-agent/.env
